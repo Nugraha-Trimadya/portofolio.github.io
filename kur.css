@@ -89,11 +89,12 @@ header{
     /* margin-left: 500px; */
 }
 
-/* .aside-prof {
+.aside-prof {
     display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 50px;
-    margin-left: 100px;
-} */
+}
 
 .aside-prof h2{
     font-size: 30px;
