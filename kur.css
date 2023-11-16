@@ -89,7 +89,7 @@ header{
     /* margin-left: 500px; */
 }
 
-.aside-prof{
+.aside-prof h2{
     display: flex;
     justify-content: center;
     padding: 50px;
