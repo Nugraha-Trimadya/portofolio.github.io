@@ -170,8 +170,8 @@ header{
 }
 
 .footer img{
-    border-radius: 50px;
-    height: 100%;
+    /* border-radius: 50px;
+    height: 100%; */
 }
 
 .footer p{
